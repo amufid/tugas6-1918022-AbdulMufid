@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_Workmanager</string>
+    <string-array name="city_list">
+        <item>Surabaya</item>
+        <item>Gresik</item>
+        <item>Semarang</item>
+        <item>Malang</item>
+        <item>Tuban</item>
+    </string-array>
+</resources>
